@@ -1,0 +1,8 @@
+package factory.simple;
+
+/**
+ * 方法接口
+ */
+public interface Api {
+    void operation(String str);
+}
